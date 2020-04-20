@@ -1,45 +1,21 @@
-﻿<Properties StartupConfiguration="{B0ADFBE5-8892-48A4-94E0-BF8AE19F1E4B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UKSmartParking/CampusMap.xaml">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UKSmartParking.iOS/Main.cs">
     <Files>
-      <File FileName="UKSmartParking/App.xaml.cs" Line="13" Column="47" />
-      <File FileName="UKSmartParking/StackPage.xaml" />
-      <File FileName="UKSmartParking/StackPage.xaml.cs" />
-      <File FileName="UKSmartParking.iOS/Main.cs" />
-      <File FileName="UKSmartParking/MainPage.xaml" />
-      <File FileName="UKSmartParking/App.xaml" />
-      <File FileName="UKSmartParking/Rules.xaml" />
-      <File FileName="UKSmartParking/Rules.xaml.cs" />
-      <File FileName="UKSmartParking/AboutApp.xaml" />
-      <File FileName="UKSmartParking/AboutApp.xaml.cs" />
-      <File FileName="UKSmartParking/CampusMap.xaml" Line="10" Column="53" />
-      <File FileName="UKSmartParking/CampusMap.xaml.cs" />
-      <File FileName="UKSmartParking/ParkingRegulations.xaml" />
-      <File FileName="UKSmartParking/ParkingRegulations.xaml.cs" />
+      <File FileName="UKSmartParking.iOS/Main.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="UKSmartParking" expanded="True">
-            <Node name="UKSmartParking" expanded="True">
-              <Node name="AboutApp.xaml" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="CampusMap.xaml" expanded="True" selected="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="ParkingRegulations.xaml" expanded="True" />
-              <Node name="Rules.xaml" expanded="True" />
-              <Node name="StackPage.xaml" expanded="True" />
-            </Node>
-            <Node name="UKSmartParking.iOS" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="UKSmartParking" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.UKSmartParking.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.330A3564-AA93-4087-923A-2B2A5170527A" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>UKSmartParking/UKSmartParking.csproj</String>
+    <String>UKSmartParking.iOS/UKSmartParking.iOS.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
