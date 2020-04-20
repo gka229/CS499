@@ -2,19 +2,19 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="UKSmartParking/CampusMap.xaml">
     <Files>
       <File FileName="UKSmartParking/App.xaml.cs" Line="13" Column="47" />
-      <File FileName="UKSmartParking/StackPage.xaml" Line="17" Column="1" />
-      <File FileName="UKSmartParking/StackPage.xaml.cs" Line="18" Column="70" />
-      <File FileName="UKSmartParking.iOS/Main.cs" Line="1" Column="1" />
-      <File FileName="UKSmartParking/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="UKSmartParking/StackPage.xaml" />
+      <File FileName="UKSmartParking/StackPage.xaml.cs" />
+      <File FileName="UKSmartParking.iOS/Main.cs" />
+      <File FileName="UKSmartParking/MainPage.xaml" />
       <File FileName="UKSmartParking/App.xaml" />
-      <File FileName="UKSmartParking/Rules.xaml" Line="9" Column="41" />
-      <File FileName="UKSmartParking/Rules.xaml.cs" Line="23" Column="50" />
-      <File FileName="UKSmartParking/AboutApp.xaml" Line="7" Column="43" />
-      <File FileName="UKSmartParking/AboutApp.xaml.cs" Line="1" Column="1" />
+      <File FileName="UKSmartParking/Rules.xaml" />
+      <File FileName="UKSmartParking/Rules.xaml.cs" />
+      <File FileName="UKSmartParking/AboutApp.xaml" />
+      <File FileName="UKSmartParking/AboutApp.xaml.cs" />
       <File FileName="UKSmartParking/CampusMap.xaml" Line="10" Column="53" />
-      <File FileName="UKSmartParking/CampusMap.xaml.cs" Line="19" Column="10" />
-      <File FileName="UKSmartParking/ParkingRegulations.xaml" Line="1" Column="1" />
-      <File FileName="UKSmartParking/ParkingRegulations.xaml.cs" Line="1" Column="1" />
+      <File FileName="UKSmartParking/CampusMap.xaml.cs" />
+      <File FileName="UKSmartParking/ParkingRegulations.xaml" />
+      <File FileName="UKSmartParking/ParkingRegulations.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -10,7 +10,7 @@
                    VerticalOptions="Start"
                    HorizontalOptions="Center"
                    TextColor="blue"/>
-            <Label Text="This app was built to detect and inform professsors and staff members in the CS department the available parking lot space in Marksberry parking lot."
+            <Label Text="This app was built to detect and inform professsors and staff members in the CS department about the available parking lot space in Marksberry parking lot."
                    FontAttributes="None"
                    FontSize="20"/>
             <Image Source="120x120University-of-Kentucky Logo copy.png"/>
